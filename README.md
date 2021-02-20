@@ -28,7 +28,7 @@ experience | skill
       * Created a dashboard for a car touchscreen device
       * Created a widget management library that allows user to add and customize their widgets
       * resolved performance and connectivity issues between device and smartphone  
-  <br>
+  
 *  **Gofuze Inc**, February 2013 – October 2017
   Founder, Lead Developer, Los Angeles
      * Founded Gofuze as a boutique enterprise dev shop.
@@ -41,7 +41,7 @@ experience | skill
      * Created backend infrastructures in NodeJS and PHP
      * Setup and manage remote test teams that would test features continuously
      * [Some notable projects](projects.md#markdown-header-tms)
-  <br>
+
 * **TatSoul**, February 2012 – February 2013
   Buyer, Web developer, Los Angeles
   * Forecast sales, create purchase orders, place orders and resolve order issues
@@ -58,3 +58,11 @@ experience | skill
 
 ### References
 [Click here to view](references.md)
+
+### Todo
+- [ ] Resume
+- [ ] Project details
+- [ ] Add badges/icon bar
+- [ ] Create build script
+- [ ] Add CI/CD
+- [ ] Maybe add docker?
